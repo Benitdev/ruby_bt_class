@@ -1,1 +1,0 @@
-puts 'thien dep zai'
